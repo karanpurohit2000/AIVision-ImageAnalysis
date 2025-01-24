@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+azure-ai-vision
+matplotlib
+Pillow
+requests
